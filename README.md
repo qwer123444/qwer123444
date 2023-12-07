@@ -13,7 +13,7 @@
 3. 커밋하기
 4. 푸시하기
 
-![프로필 이미지](./다).jpg
+![프로필 이미지](./다.jpg)
 <!--
 **qwer123444/qwer123444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
